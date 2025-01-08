@@ -95,7 +95,7 @@ This project is an Employee Management System that includes CRUD operations for 
 
 5. **Run the Application**:
    ```bash
-   npm start
+   npm run dev
    ```
    - The frontend will run at `http://localhost:7001`.
 
